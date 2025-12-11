@@ -69,10 +69,5 @@ java-rmi-example/
 
 ---
 
-## ▶️ Running the Project
-
-### 1️⃣ Run the Server
-
-Open the **RMIServer** project and run:
 
 
